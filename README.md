@@ -1,6 +1,7 @@
+# Made by AMsurur   
 # JS : Java Script
 ![](https://play-lh.googleusercontent.com/rfWOJQVBHoAZ_B43v0ySFlLmJBLtksVGAxGaFRh2ex4nOmNQ86qzG4sYWV63IKrXlvI)
- ### Bredan Eich crates the very first version of JavaScript in  just 10 days in 1995 . Firstly it was called Mocha .in 1996 renamed in to LiveSript . An 
+ ### Bredan Eich crates the very first version of JavaScript in  just 10 days in 1995 . Firstly it was called Mocha .in 1996 renamed in to LiveSript . And also in same year it renamed to JavaScript.
 
  # What is JS? 
  ### -JavaScript is a dynamic programming language that's used for web development, in web applications, for game development, and lots more. It allows you to implement dynamic features on web pages that cannot be done with only HTML and CSS.
