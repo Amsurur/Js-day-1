@@ -20,9 +20,50 @@
 5. null
 6. symbol
 7. biglnt
+8. Objects
 ### And they are divided in 2 groups 
 1. Object (unprimitive) 
 2. Primitive
+## ___Object contains___
+1. Arrays 
+2. Function
+3. etc...
+## ___Primitive contains___
+1. number 
+2. string
+3. boolean
+4. undefined
+5. null
+6. symbol
+7. biglnt
 
- 
- 
+# ___Rules for Naming JavaScript Variables___
+1. name
+2. _name
+3. $name
+-  Variable names cannot start with numbers Ex: 1 or 1name .
+## ___Operators IN JavaScript___
+ 1. Arithmetic (+ , - , / , *)
+ 2. Compairson (== , === , >= , <= , != , !==)
+ 3. Logical (|| , && , !)
+ 4. Type Conversions (Number(3.14))
+ 5. Assignment ( = , += , -= , *= , /= , ^= , %= )
+   
+___
+ ___ 
+# ___Conditions___
+1. IF / else
+2. Ternary operator (?:)
+3. Switch
+___
+#  ___Loops___
+1. For
+2. While
+3. Do/While
+___
+# ___Functions___
+1. Function declation
+2. Function expresion  
+    1.Arrow function
+    2.Anonymus function 
+3. Immediately Invoked Function Expression 
